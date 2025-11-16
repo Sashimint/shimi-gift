@@ -3,6 +3,7 @@
 **A digital love letter disguised as an animated pixel art experience.**  
 Built to celebrate our anniversary with music, visuals, and heartfelt details,
 made for a special someone 💜
+
 https://shimi-myao-3105.netlify.app/
 ---
 
